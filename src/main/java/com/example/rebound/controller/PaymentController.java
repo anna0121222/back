@@ -26,7 +26,7 @@ public class PaymentController {
     @GetMapping("")
     public String goToPayment(Model model) {
         model.addAttribute("paymentDTO", paymentDTO);
-        return "/member/payment";
+        return "member/payment";
     }
 
 //    결제 후
