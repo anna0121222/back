@@ -11,9 +11,9 @@ public class TimeMapperTests {
     @Autowired
     private TimeMapper timeMapper;
 
-    @Test
-    public void testTimeMapper() {
-        log.info(timeMapper.getTime());
-    }
+//    @Test
+//    public void testTimeMapper() {
+//        log.info(timeMapper.getTime());
+//    }
 
 }

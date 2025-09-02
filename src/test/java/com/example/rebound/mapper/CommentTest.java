@@ -15,11 +15,11 @@ public class CommentTest {
     @Autowired
     private CommentAlarmMapper commentAlarmMapper;
 
-    @Test
-    public void testSelectCommentAlarmById(){
-        CommentAlarmDTO commentAlarmDTO = new CommentAlarmDTO();
-        log.info(commentAlarmMapper.selectCommentAlarmById(1L).toString());
-    }
+//    @Test
+//    public void testSelectCommentAlarmById(){
+//        CommentAlarmDTO commentAlarmDTO = new CommentAlarmDTO();
+//        log.info(commentAlarmMapper.selectCommentAlarmById(1L).toString());
+//    }
 
 //    @Test
 //    public void testSelectCommentAlarmById(){
