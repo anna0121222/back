@@ -45,10 +45,10 @@ public class AdminTest {
 //            memberMapper.insertMember(memberDTO);
 //        }
 //    }
-    @Test
-    public void test(){
-        LocalDateTime  now = LocalDateTime.now();
-        System.out.println(now);    }
+//    @Test
+//    public void test(){
+//        LocalDateTime  now = LocalDateTime.now();
+//        System.out.println(now);    }
 
 
 }
