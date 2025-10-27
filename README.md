@@ -1,8 +1,11 @@
 # 리바운드 REBOUND
-<h1>마음의 안정감을 찾기 위한 플랫폼 - '리바운드(REBOUND)'</h1>
+
+<h1>마음의 안정감을 찾기 위한 플랫폼'</h1>
+
 
 <h2>1. 기획 의도</h2>
-<img alt="기획의도" src="https://github.com/user-attachments/assets/5b03c52d-9fc2-4cc5-a385-fc8ba39a928c" />
+<img alt="기획의도" src="https://github.com/user-attachments/assets/65730cd7-20b2-4b25-b3be-79be8bda5f80" />
+
 
 통계적으로 볼 때, 한국 사회는 <strong>도전과 실패에 대해 비교적 관대한 편이 아니다. </strong>실패를 공개적으로 이야기하는 것이 중요하다고들 하지만, 정작 <strong>그런 경험을 솔직하고 구체적으로 나눌 수 있는 창구는 거의 없는 상황이다.</strong>
 누구나 크고 작은 실패를 겪지만, 그 이유와 상황이 제각각이라 <strong>극복 방법을 찾기 어렵고,</strong> 그로 심해  <strong>심리적 고통이나 마음의 병</strong>으로 이어지는 경우도 적지 않다. <br> 
@@ -10,7 +13,7 @@
 
 
 <h2>2. 기대 효과</h2>
-<img alt="기대효과" src="https://github.com/user-attachments/assets/5160e342-9227-4733-b442-8ff2c2b2374b" />
+<img alt="기대효과" src="https://github.com/user-attachments/assets/b86e2ca6-b524-41eb-bcc1-5a4d3ad3d0f2" />
 
 <strong>마음의 휴식처 마련</strong>
 <br>: 실패를 숨기거나 부끄러워하지 않아도 되는 공간을 제공함으로써, 개인이 마음의 짐을 덜고 스스로를 돌아볼 수 있는 심리적 안식처를 마련. 사용자는 자신의 경험을 솔직히 털어놓으며 감정을 정리하고, 타인의 공감 속에서 위로를 받을 수 있음
@@ -39,7 +42,8 @@
 - Slack<br>
 
 <h2>4. ERD</h2>
-<img alt="rebound_ERD" src="https://github.com/user-attachments/assets/2107acb3-60d9-4fba-bbd9-bdc5ab54d65c" />
+<img alt="rebound_ERD" src="https://github.com/user-attachments/assets/4e0754a7-2702-4b25-9595-67663645c20d" />
+
  
 <h2>5. 담당 업무</h2>
 <h3>5-1 프론트엔드</h3>
