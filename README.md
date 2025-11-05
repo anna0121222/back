@@ -1,7 +1,7 @@
 # 리바운드 REBOUND
 
-<h1>마음의 안정감을 찾기 위한 플랫폼'</h1>
-
+<h2>마음의 안정감을 찾기 위한 플랫폼</h2>
+<br>
 
 <h2>1. 기획 의도</h2>
 <img alt="기획의도" src="https://github.com/user-attachments/assets/65730cd7-20b2-4b25-b3be-79be8bda5f80" />
@@ -47,7 +47,7 @@
  
 <h2>5. 담당 업무</h2>
 <h3>5-1 프론트엔드</h3>
-<img alt="rebound_front" src="https://github.com/user-attachments/assets/f0948e59-a310-4ae0-b6e9-0f98a6539bc1" />
+<img alt="rebound_front" src="https://github.com/user-attachments/assets/e353aa72-38cf-4342-a9c1-82fda290dc9b" />
 
 ▶ 커뮤니티
 - 경험담 작성
@@ -63,7 +63,7 @@
 
 <br>
 <h3>5-2 백엔드</h3>
-<img alt="rebound_back" src="https://github.com/user-attachments/assets/2e51c660-0dab-4c05-b1db-aede348aa0da" />
+<img alt="rebound_back" src="https://github.com/user-attachments/assets/1da85391-a3a2-48db-bc82-bc63facfc941" />
 
 <br>
 
