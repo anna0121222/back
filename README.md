@@ -40,10 +40,9 @@
 | **HTML Engine** | Thymeleaf |
 | **Frontend** | HTML, JavaScript, CSS |
 | **Backend** | Spring Boot, Java |
-| **Database** | PostgreSQL, Redis |
-| **Infra** | AWS EC2, AWS IAM, AWS S3 |
+| **Database** | MySQL |
 | **Development Tools** | VS Code, IntelliJ IDEA |
-| **API & Library** | Kakao Login, Kakao Map, Kakao 주소 API, SMTP Gmail API, REST API, Lombok, MyBatis, OAuth 2.0, Google Login, Boot Pay, Naver Login, JWT, Spring Security, CoolSMS, Swagger UI |
+| **API & Library** | Kakao Login, SMTP Gmail API, REST API, Lombok, MyBatis, Boot Pay, JWT, CoolSMS |
 | **Collaboration & Version Control** | Git, GitHub, Slack, Postman, Sourcetree |
 | **Testing** | JUnit5 |
 
